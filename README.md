@@ -9,14 +9,33 @@ A curated list of project ideas across different categories — for those who ha
 ## Categories
 
 - [Kernels & OS](#kernels--os)
+- [Programming Languages](#programming-languages)
+- [Shells](#shells)
 
 ---
 
 ## Kernels & OS
 
-| Idea | Description | Example Implementation |
-|------|-------------|------------------------|
+| Idea | Description | Examples |
+|------|-------------|---------|
 | XNU Darwin-compatible kernel | Create a kernel compatible with Apple's XNU/Darwin architecture | [danakernel/dana](https://github.com/danakernel/dana) |
+| OS written in Rust | A full operating system built entirely in Rust | [redox-os/redox](https://github.com/redox-os/redox) |
+
+---
+
+## Programming Languages
+
+| Idea | Description | Examples |
+|------|-------------|---------|
+| Language that compiles to everything | A programming language that can target any platform or backend (native, WASM, JVM, JS, etc.) | [AnmiTaliDev/agnostic](https://github.com/AnmiTaliDev/agnostic) |
+
+---
+
+## Shells
+
+| Idea | Description | Examples |
+|------|-------------|---------|
+| Bash alternative for OS development | A shell designed for osdev workflows with a non-POSIX syntax | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+Bash+alternative+for+OS+development) |
 
 ---
 
