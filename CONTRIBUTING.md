@@ -19,7 +19,7 @@ Each idea follows this format in the table:
 
 - **Idea**: a short, clear name.
 - **Description**: one or two sentences explaining what should be built.
-- **Example Implementation**: an existing project that implements or is close to the idea. Use `—` if there is none.
+- **Examples**: one or more existing projects that implement or are close to the idea. Separate multiple examples with `<br>`. If there are no examples yet, use an issue link: `[Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+<idea name>)`.
 
 ## Rules
 
