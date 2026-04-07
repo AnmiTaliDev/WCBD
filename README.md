@@ -16,7 +16,7 @@ A curated list of project ideas across different categories — for those who ha
 
 | Idea | Description | Example Implementation |
 |------|-------------|------------------------|
-| XNU Darwin-compatible kernel | Create a kernel compatible with Apple's XNU/Darwin architecture | [danalernel/dana](https://github.com/danalernel/dana) |
+| XNU Darwin-compatible kernel | Create a kernel compatible with Apple's XNU/Darwin architecture | [danakernel/dana](https://github.com/danakernel/dana) |
 
 ---
 
