@@ -12,6 +12,7 @@ A curated list of project ideas across different categories — for those who ha
 - [Programming Languages](#programming-languages)
 - [Shells](#shells)
 - [Miscellaneous Low-Level](#miscellaneous-low-level)
+- [Retro](#retro)
 
 ---
 
@@ -45,6 +46,14 @@ A curated list of project ideas across different categories — for those who ha
 | Idea | Description | Examples |
 |------|-------------|---------|
 | VirtIO device backed by real embedded hardware | Expose a physical embedded device (e.g. UART, SPI, GPIO controller) as a VirtIO device so guests can drive real hardware through the hypervisor | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+VirtIO+device+backed+by+real+embedded+hardware) |
+
+---
+
+## Retro
+
+| Idea | Description | Examples |
+|------|-------------|---------|
+| J2ME application | Build a Java ME application for games, utilities, or network apps running on MIDP/CLDC | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+J2ME+application) |
 
 ---
 
