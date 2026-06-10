@@ -13,6 +13,7 @@ A curated list of project ideas across different categories — for those who ha
 - [Shells](#shells)
 - [Miscellaneous Low-Level](#miscellaneous-low-level)
 - [Retro](#retro)
+- [Emulators](#emulators)
 
 ---
 
@@ -54,6 +55,14 @@ A curated list of project ideas across different categories — for those who ha
 | Idea | Description | Examples |
 |------|-------------|---------|
 | J2ME application | Build a Java ME application for games, utilities, or network apps running on MIDP/CLDC | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+J2ME+application) |
+
+---
+
+## Emulators
+
+| Idea | Description | Examples |
+|------|-------------|---------|
+| MIPS-I emulator | Emulate the classic MIPS-I architecture | [AnmiTaliDev/mips-i-emu](https://github.com/AnmiTaliDev/mips-i-emu) |
 
 ---
 
