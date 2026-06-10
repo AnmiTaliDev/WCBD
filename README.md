@@ -11,6 +11,7 @@ A curated list of project ideas across different categories — for those who ha
 - [Kernels & OS](#kernels--os)
 - [Programming Languages](#programming-languages)
 - [Shells](#shells)
+- [Miscellaneous Low-Level](#miscellaneous-low-level)
 
 ---
 
@@ -36,6 +37,14 @@ A curated list of project ideas across different categories — for those who ha
 | Idea | Description | Examples |
 |------|-------------|---------|
 | Bash alternative for OS development | A shell designed for osdev workflows with a non-POSIX syntax | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+Bash+alternative+for+OS+development) |
+
+---
+
+## Miscellaneous Low-Level
+
+| Idea | Description | Examples |
+|------|-------------|---------|
+| VirtIO device backed by real embedded hardware | Expose a physical embedded device (e.g. UART, SPI, GPIO controller) as a VirtIO device so guests can drive real hardware through the hypervisor | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+VirtIO+device+backed+by+real+embedded+hardware) |
 
 ---
 
