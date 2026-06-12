@@ -14,6 +14,7 @@ A curated list of project ideas across different categories — for those who ha
 - [Miscellaneous Low-Level](#miscellaneous-low-level)
 - [Retro](#retro)
 - [Emulators](#emulators)
+- [Conlangs](#conlangs)
 
 ---
 
@@ -63,6 +64,14 @@ A curated list of project ideas across different categories — for those who ha
 | Idea | Description | Examples |
 |------|-------------|---------|
 | MIPS-I emulator | Emulate the classic MIPS-I architecture | [AnmiTaliDev/mips-i-emu](https://github.com/AnmiTaliDev/mips-i-emu) |
+
+---
+
+## Conlangs
+
+| Idea | Description | Examples |
+|------|-------------|---------|
+| Conlang based on an existing language | Create an a posteriori constructed language derived from an existing natural language (e.g. through alternative historical evolution, phonological shifts, or simplified grammar) | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+Conlang+based+on+an+existing+language) |
 
 ---
 
