@@ -71,7 +71,7 @@ A curated list of project ideas across different categories — for those who ha
 
 | Idea | Description | Examples |
 |------|-------------|---------|
-| Conlang based on an existing language | Create an a posteriori constructed language derived from an existing natural language (e.g. through alternative historical evolution, phonological shifts, or simplified grammar) | [Add an example](https://github.com/AnmiTaliDev/WCBD/issues/new?title=Example+for%3A+Conlang+based+on+an+existing+language) |
+| Conlang based on an existing language | Design an autonomous constructed language built upon the structural and grammatical foundation of an existing language family | [AnmiTaliDev/hanel-tili](https://github.com/AnmiTaliDev/hanel-tili) |
 
 ---
 
